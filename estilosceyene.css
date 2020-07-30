@@ -21,6 +21,11 @@ header h1 {
     letter-spacing: 2px;
 }
 
+a {
+    text-decoration: none;
+    color: rgb(17, 112, 103);
+}
+
 ul {
     display: flex;
     justify-content: space-evenly;
