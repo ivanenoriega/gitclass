@@ -16,6 +16,11 @@ header {
     padding: 1rem;
 }
 
+header h1 {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
 ul {
     display: flex;
     justify-content: space-evenly;
